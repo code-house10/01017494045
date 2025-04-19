@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'Almarai';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/almarai/v18/tssoApxBaigK_hnnS_antn-Wpg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Almarai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/almarai/v18/tsstApxBaigK_hnnQ12Fpg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Almarai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/almarai/v18/tssoApxBaigK_hnnS-agtn-Wpg.ttf) format('truetype');
+}
